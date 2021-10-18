@@ -5,6 +5,7 @@ Welcome to the documentation pages of the **SmartCon** of openCX!
 
 You can find here detailed information about the SmartCon, hereby mentioned as module, from a high-level vision to low-level implementation decisions, a kind of Software Development Report, organized by discipline (as of RUP): 
 
+* Final Product
 * Business modeling 
   * [Product Vision](#Product-Vision)
   * [Elevator Pitch](#Elevator-Pitch)
@@ -28,6 +29,10 @@ You can find here detailed information about the SmartCon, hereby mentioned as m
 * [Tomás Freitas Gonçalves](https://github.com/tomasfgon)
 
 ---
+
+## Final Product
+
+![app-demo](app-demo.gif)
 
 ## Product Vision
 
